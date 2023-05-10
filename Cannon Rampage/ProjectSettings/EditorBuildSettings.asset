@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0892f331cb52eab458e69f34d2fff765
+  - enabled: 1
+    path: Assets/Scenes/Vehicles.unity
+    guid: 34e1428050a91154dae4f4c321d63c04
+  - enabled: 1
+    path: Assets/Scenes/Zombies.unity
+    guid: 02a4748ca3cd71c43b97366a8ba485c9
+  m_configObjects: {}
